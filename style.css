@@ -1,0 +1,16 @@
+body {
+    background-color: lightpink;
+}
+
+h1, p {
+    background-color: palevioletred;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border-width: 3px;
+    border-color: brown;
+}
+
+div {
+    background-color: deeppink;
+}
